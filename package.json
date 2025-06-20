@@ -1,0 +1,13 @@
+{
+  "name": "n8n-custom",
+  "private": true,
+  "version": "1.0.0",
+  "description": "n8n com ElevenLabs node",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.36.2",
+    "@elevenlabs/n8n-nodes-elevenlabs": "^0.2.2"
+  }
+}
